@@ -5,10 +5,10 @@
 - [ ] Seeking Alpha
 
 ## Metrikák:
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 52w high
+- [ ] 52w low
+- [ ] EPS
+- [ ] PE
 - [ ]
 
 
