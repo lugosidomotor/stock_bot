@@ -2,6 +2,15 @@
 
 ## Források:
 - [ ] Google
-- [ ] A completed task
+- [ ] Seeking Alpha
 
 ## Metrikák:
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+
+## Forrás:
+https://www.youtube.com/watch?v=cazyDRiYu7c
