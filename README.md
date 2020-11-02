@@ -1,8 +1,7 @@
 # stock_bot
 
 ## Források:
- Markup : - [ ] An uncompleted task
-          - [ ] A completed task
-
+- [ ] Google
+- [ ] A completed task
 
 ## Metrikák:
